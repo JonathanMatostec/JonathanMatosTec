@@ -21,7 +21,11 @@
 </div>
 <div style= "display: inline_blok">
 <img aling="center" alt="html5" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
-</div><br/>
+</div>
+<div style= "display: inline_blok">
+<img aling="center" alt="html5" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+</div>
+
 
 Vivendo novos desafios
 
