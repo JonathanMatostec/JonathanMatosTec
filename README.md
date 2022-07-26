@@ -1,4 +1,4 @@
-<h1> Oiii!!! sou Jonathan Matos 👋</h1>
+<h1> Oiii!!! Sou Jonathan Matos 👋</h1>
 
 - 🔭  Estou estudando Front End
 - 🌱 Estudando Paython
